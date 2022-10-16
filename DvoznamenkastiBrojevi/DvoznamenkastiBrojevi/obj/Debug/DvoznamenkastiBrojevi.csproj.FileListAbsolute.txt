@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\DvoznamenkastiBrojevi\DvoznamenkastiBrojevi\bin\Debug\DvoznamenkastiBrojevi.exe.config
+C:\Users\PC\source\repos\DvoznamenkastiBrojevi\DvoznamenkastiBrojevi\bin\Debug\DvoznamenkastiBrojevi.exe
+C:\Users\PC\source\repos\DvoznamenkastiBrojevi\DvoznamenkastiBrojevi\bin\Debug\DvoznamenkastiBrojevi.pdb
+C:\Users\PC\source\repos\DvoznamenkastiBrojevi\DvoznamenkastiBrojevi\obj\Debug\DvoznamenkastiBrojevi.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\DvoznamenkastiBrojevi\DvoznamenkastiBrojevi\obj\Debug\DvoznamenkastiBrojevi.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\DvoznamenkastiBrojevi\DvoznamenkastiBrojevi\obj\Debug\DvoznamenkastiBrojevi.exe
+C:\Users\PC\source\repos\DvoznamenkastiBrojevi\DvoznamenkastiBrojevi\obj\Debug\DvoznamenkastiBrojevi.pdb
